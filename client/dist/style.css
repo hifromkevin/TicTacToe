@@ -1,0 +1,64 @@
+html, body {
+  background-color: #333;
+}
+
+h1 {
+  color: #00aaff;
+  text-align: center;
+}
+
+.title {
+  padding: 2% 0px;
+}
+
+.square {
+  padding-top: 5%;
+  height: 116px;
+  background-color: #777;
+  border: 2px solid #333;
+  text-align: center;
+  font-size: 50px;
+}
+
+.ex {
+  color: #00a;
+}
+
+.oh {
+  color: #a00;
+}
+
+.holder {
+  width: 320px;
+  margin: 0 auto;
+}
+
+#winnerAnnouncement {
+  font-size: 40px;
+  font-color: #f90;
+  text-align: center;
+}
+
+.playerStatus {
+  text-align: center;
+  font-size: 40px;
+  font-color: #f90;
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
+  background-color: rgba(255,255,255, 0.8);
+  text-align: center;
+  margin-top: 2%;
+}
+
+.resetButton {
+  background-color: #f90;
+  border: none;
+  border-radius: 15px;
+  width: 75%;
+  padding: 3%;
+  margin: 3% auto;
+  display: block;
+  color: #fff;
+  font-size: 24px;
+}
